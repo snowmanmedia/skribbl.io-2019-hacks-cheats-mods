@@ -1,3 +1,5 @@
+This is a cleaner version of the original by MrCoderN
+
 <h3>Features</h3>
 • Auto Guess (?)</br>
 • Inform Giver</br>
